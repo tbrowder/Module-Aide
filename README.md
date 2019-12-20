@@ -1,4 +1,4 @@
-# Module::Linter
+# Raku-Module-Aid
 
 A Raku module with a tool to help Raku
 module authors develop and maintain
