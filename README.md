@@ -3,7 +3,7 @@
 A Raku module with a tool to help Raku
 module authors develop and maintain
 public modules that are consistent in
-format an structure, maintainable,
+format and structure, maintainable,
 and contain features the Raku community
 considers to be best practices.
 
