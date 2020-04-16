@@ -1,4 +1,4 @@
-# Raku::ModAuthor::Aide
+# Module::Aide
 
 A Raku module with a tool to help Raku module authors develop and
 maintain public modules that are consistent in format and structure,
