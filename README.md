@@ -9,3 +9,8 @@ The initial version necessarily has mostly my views from my Raku
 experiences, plus it incorporates ideas from discussions on IRC
 channels #raku and #raku-dev as well as information from the docs and
 the original Raku design documents.
+
+Much has been copied from App::Mi6 which has been a very popular
+module. However, that module was too agressive for my purposes
+and it did not work well with an existing module as it should
+have, hence this effort.
